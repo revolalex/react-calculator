@@ -13,6 +13,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Component
 
+- react component
+```js
+import React, { Component } from 'react';
+```
+
+- add CSS
+
+```js
+import '.Welcome.css'
+```
+
+- the components
+
 ```js
 class Welcome extends React.Component {
   render() {
@@ -20,6 +33,25 @@ class Welcome extends React.Component {
   }
 }
 ```
+
+- Export
+
+```js
+export default Welcome
+```
+
+- Import
+
+```js
+import Welcome from './Welcome'
+```
+
+- Use
+
+```html
+<Welcome />
+```
+
 
 ## JSX
 
