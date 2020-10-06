@@ -1,4 +1,13 @@
+![](https://img.shields.io/badge/made%20with-React-blue?logo=react).
+![](https://img.shields.io/badge/made%20with-node.js-success?logo=node.js).
+
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frevolalex%2FReact-Nasa-Picture-Of-The-Day" alt="Hits">.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
+<img src= "https://user-images.githubusercontent.com/56839789/95198177-16ff6280-07db-11eb-9176-93dd301a3ccb.gif">
 
 ## Available Scripts
 
@@ -66,3 +75,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Status
+Project is:  _finished_
+
+
+## Contact	
+- [![LinkedIn][linkedin-shield]][linkedin-url] 	
+- revolalex@gmail.com
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/alexandre-rodrigueza/
+
+
