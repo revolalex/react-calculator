@@ -211,7 +211,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Status
 Project is:  _finished_
-Readme= _To be continued_
+Readme:  _To be continued_
 
 
 ## Contact	
