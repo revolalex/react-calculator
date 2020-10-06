@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Clock from "./components/Clock";
 
 // import css
 import './App.css';
@@ -6,6 +7,7 @@ import './App.css';
 // child components
 import ResultComponent from './components/ResultComponent';
 import KeyPadComponent from "./components/KeyPadComponent";
+
 
 class App extends Component {
     constructor(){
@@ -79,6 +81,7 @@ class App extends Component {
             <div>
                 <div className="calculator-body">
                     <h1>Calculator</h1>
+                    <Clock/>
                     {/* component with props */}
                     <ResultComponent result={this.state.result}/>
                     {/* component with function onClick */}
