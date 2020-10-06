@@ -9,6 +9,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshot
 <img src= "https://user-images.githubusercontent.com/56839789/95198177-16ff6280-07db-11eb-9176-93dd301a3ccb.gif">
 
+# Intro to react
+
+## Component
+
+```js
+class Welcome extends React.Component {
+  render() {
+    return <h1>Bonjour, {this.props.name}</h1>;
+  }
+}
+```
+
 ## JSX
 
 - With
@@ -107,6 +119,7 @@ const element = <div tabIndex="0"></div>;
 const element = <img src={user.avatarUrl}></img>;
 ```
 
+
 ## Render element
 
 - html file
@@ -198,6 +211,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Status
 Project is:  _finished_
+Readme= _To be continued_
 
 
 ## Contact	
